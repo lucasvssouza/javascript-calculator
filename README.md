@@ -6,7 +6,7 @@
    <img src="https://badgen.net/github/release/lucasvssouza/javascript-calculator"</img>
   </a>
   <a href="">
-   <img src="https://badgen.net/github/stars/lucasvssouza/"</img>
+   <img src="https://badgen.net/github/stars/lucasvssouza/javascript-calculator"</img>
   </a>
 </div>
 
