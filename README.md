@@ -10,6 +10,5 @@
   </a>
 </div>
 
-
 # Calculator in JavaScript
-Projeto 
+![image](https://user-images.githubusercontent.com/43560204/158678571-88fec7d3-120e-4714-89e5-973159762445.png)
